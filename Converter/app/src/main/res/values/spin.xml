@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weights">
+        <item>килограмм</item>
+        <item>грамм</item>
+    </string-array>
+    <string-array name="currency">
+        <item>рубль</item>
+        <item>доллар</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>°C</item>
+        <item>K</item>
+    </string-array>
+    <string-array name="length">
+        <item>метр</item>
+        <item>сантиметр</item>
+    </string-array>
+    <string-array name="area">
+        <item>м2</item>
+        <item>см2</item>
+    </string-array>
+</resources>
